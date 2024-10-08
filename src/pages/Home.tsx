@@ -4,7 +4,6 @@ import PageDefault from '../config/layout/PageDefault';
 import { useEffect } from 'react';
 import { getCharacters } from '../store/models/CharacterSlice';
 import { useAppSelector } from '../store/hooks';
-import { Grid2 as Grid } from '@mui/material';
 
 function Home() {
   const dispatch = useDispatch();

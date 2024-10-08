@@ -1,5 +1,4 @@
 import Card from '@mui/material/Card';
-import CardMedia from '@mui/material/CardMedia';
 import { Box, Grid2 as Grid, Typography } from '@mui/material';
 
 interface MyCardProps {
